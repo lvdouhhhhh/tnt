@@ -9,7 +9,7 @@
   },
   {
     "name": "绿豆专属服务器",
-    "path": "NDcuOTYuMTUzLjc"
+    "path": "MjcuNTAuMTYzLjY6MjMwNTA="
   },
   {
     "name": "柚子专属服务器",
