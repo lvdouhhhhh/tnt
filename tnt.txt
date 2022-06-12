@@ -4,8 +4,12 @@
     "path": "NDcuOTIuMTcwLjEwMQ"
   },
   {
-    "name": "备用服务器（北京）",
+    "name": "备用一服（北京）",
     "path": "ODEuNzAuMjQyLjEyNQ"
+  },
+  {
+    "name": "备用二服（浙江）",
+    "path": "MTEwLjQyLjEuNTM"
   },
   {
     "name": "绿豆专属服务器",
