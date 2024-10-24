@@ -1,26 +1,27 @@
 [
+  "来自 Gitee",
   {
-    "name": "默认服务器（北京）",
-    "path": "NDcuOTIuMTcwLjEwMQ"
+    "name": "默认服务器",
+    "path": "MTU0LjE5Ny42LjIw"
   },
   {
-    "name": "备用一服（北京）",
-    "path": "ODEuNzAuMjQyLjEyNQ"
+    "name": "备用服务器",
+    "path": "MTU0LjE5Ny43LjE5OQ"
   },
   {
-    "name": "备用二服（浙江）",
-    "path": "MTEwLjQyLjEuNTM"
+    "name": "土豆服务器(临时)",
+    "path": "NDcuOTguMjI2Ljgz"
   },
   {
     "name": "绿豆专属服务器",
-    "path": "MjcuNTAuMTYzLjY6MTI1Mjc"
+    "path": "MTkyLjE2OC4xLjEw"
   },
   {
     "name": "柚子专属服务器",
-    "path": "bG9jYWxob3N0"
+    "path": "MTkyLjE2OC4xMDEuMTQ"
   },
   {
     "name": "黑客大狼专属服务器",
-    "path": "d3d3LmJhaWR1LmNvbQ"
+    "path": "bG9jYWxob3N0"
   }
 ]
