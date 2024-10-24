@@ -1,5 +1,5 @@
 [
-  "来自 Gitee",
+  "来自 vercel",
   {
     "name": "默认服务器",
     "path": "MTU0LjE5Ny42LjIw"
